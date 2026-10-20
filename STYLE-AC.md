@@ -136,6 +136,10 @@ DLC 章、外传章、设定章、人物章可以调整结构，但「一句话�
 | Galina Voronina | 加琳娜·沃罗尼娜 |
 | Charlotte de la Cruz | 夏洛特·德·拉·克鲁兹 |
 | Callum Lynch（电影） | 卡勒姆·林奇 |
+| Animus Island（《启示录》） | Animus 岛 |
+| Olivier Garneau | 奥利维尔·加诺 |
+| Laetitia England | 莱蒂西娅·英格兰 |
+| Sigma Team | 西格玛小队 |
 
 ### 伊述
 | English | 中文 |
@@ -224,6 +228,7 @@ DLC 章、外传章、设定章、人物章可以调整结构，但「一句话�
 | Assassin's Creed: Embers（动画短片，2011） | 《余烬》 |
 | Altaïr's Chronicles / Discovery | 《阿泰尔编年史》 / 《发现》 |
 | The Tyranny of King Washington | 《华盛顿暴政》 |
+| The Lost Archive（《启示录》DLC） | 《遗失的档案》 |
 
 ## 6. 全书文件清单（冻结）
 
