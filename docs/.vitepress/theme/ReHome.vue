@@ -198,6 +198,7 @@ onMounted(() => {
   .bh { padding: 28px 16px 56px; }
   .bh-hero { grid-template-columns: 1fr; gap: 24px; }
   .bh-cover { width: 180px; }
+  .bh-cover .t { font-size: 28px; letter-spacing: 0.1em; }
   .bh-ways { grid-template-columns: 1fr; }
   .vols { grid-template-columns: 1fr; }
 }
