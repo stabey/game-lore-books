@@ -5,7 +5,7 @@
 | 书 | 状态 | 路径 |
 | --- | --- | --- |
 | 使命召唤剧情全书 | 新版：章节式深度长文（七卷 + 附录） | `docs/cod/` |
-| 生化危机 历代详解 | 旧版互动图鉴，原样迁入，待按新格式重写 | `docs/public/re/` |
+| 生化危机剧情全书 | 新版：章节式深度长文（八卷 + 附录） | `docs/re/` |
 | 刺客信条 历史年代图鉴 | 旧版互动图鉴，原样迁入，待按新格式重写 | `docs/public/ac/` |
 
 站点用 [VitePress](https://vitepress.dev/) 构建，推送到 `main` 后由 GitHub Actions 自动部署到 GitHub Pages。
@@ -27,10 +27,14 @@ docs/
   cod/                    使命召唤
     index.md              书首页（BookHome 组件，目录来自 cod-toc.ts）
     intro/ ww2/ mw/ bo/ future/ mwr/ zombies/ people/ appendix/
-  public/re/  public/ac/  旧版两本，静态文件原样发布
+  re/                     生化危机
+    index.md              书首页（ReHome 组件，目录来自 re-toc.ts）
+    intro/ raccoon/ umbrella/ bsaa/ spinoff/ modern/ film/ people/ lore/ appendix/
+  public/ac/              旧版刺客信条，静态文件原样发布
   .vitepress/
     config.mts            站点配置（导航、搜索、中文分词）
     cod-toc.ts            使命召唤目录：侧边栏与书首页共用
+    re-toc.ts             生化危机目录：侧边栏与书首页共用
     theme/                书架、书首页组件与阅读排版样式
 scripts/gen-uncertain.mjs 构建前扫描全书「存疑」框，生成附录 D
 STYLE.md                  写作规范、章节模板与统一译名表

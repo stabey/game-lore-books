@@ -28,7 +28,7 @@
 | 2020-04-03（全球） | 生化危机3（重制版） | Resident Evil 3（2020） | PS4、Xbox One、PC | 同 3 代 | [生化危机3](../raccoon/re3.md) |
 | 2021-05-07（全球） | 生化危机：村庄 | Resident Evil Village | PS5、PS4、Xbox Series X/S、Xbox One、PC、Stadia | 2021 年 2 月 | [村庄](../modern/re8.md) |
 | 2023-03-24（全球） | 生化危机4（重制版） | Resident Evil 4（2023） | PS5、PS4、Xbox Series X/S、PC | 同 4 代 | [生化危机4](../bsaa/re4.md) |
-| 2026-02-27（全球） | 生化危机：安魂曲 | Resident Evil Requiem | PS5、Xbox Series X/S、Switch 2、PC | 2026 年 10 月 | [安魂曲](../modern/re9.md) |
+| 2026-02-27（全球） | 生化危机：安魂曲 | Resident Evil Requiem | PS5、Xbox Series X/S、Switch 2、PC | 2026 年秋 | [安魂曲](../modern/re9.md) |
 | 2027 年（未发售） | 生化危机：维罗妮卡（重制版） | Resident Evil Veronica | PS5、Xbox Series X/S、Switch 2、PC | 同《维罗妮卡》 | [维罗妮卡](../umbrella/cv.md) |
 
 ::: details 展开：各作的重要版本、移植与 DLC

@@ -30,14 +30,14 @@ const books: Book[] = [
   {
     key: 're',
     title: '生化危机',
-    sub: '历代详解',
+    sub: '剧情全书',
     en: 'RESIDENT EVIL',
-    desc: '按剧情年代排列的历代作品、可交互时间轴与人物关系图，以及伞公司、威斯克、病毒谱系等贯穿线索。',
-    meta: ['互动时间轴', '关系图'],
+    desc: '从 1998 年阿克雷山的洋馆到 2026 年重返浣熊市：十部正传、两部《启示录》、外传与五部正史 CG 影视逐章讲解，附人物志、病毒谱系、组织档案、统一时间线和全作索引。',
+    meta: ['八卷 + 附录 · 36 章', '约 36 万字', '病毒谱系与组织档案', 'CG 影视独立成卷'],
     href: '/re/',
-    internal: false,
-    status: '旧版图鉴 · 将按新格式重写',
-    fresh: false
+    internal: true,
+    status: '新版 · 深度长文',
+    fresh: true
   },
   {
     key: 'ac',
@@ -89,7 +89,7 @@ const books: Book[] = [
       </a>
     </div>
 
-    <p class="shelf-note">非官方粉丝作品，资料截至 2026 年 10 月。生化危机与刺客信条两本目前是旧版互动图鉴，会陆续改写成和《使命召唤》相同的章节式电子书。</p>
+    <p class="shelf-note">非官方粉丝作品，资料截至 2026 年 10 月。</p>
   </div>
 </template>
 
