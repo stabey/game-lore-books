@@ -1,0 +1,15 @@
+{
+  "name": "game-lore-books",
+  "private": true,
+  "type": "module",
+  "description": "游戏剧情电子书合集：使命召唤 / 生化危机 / 刺客信条",
+  "scripts": {
+    "gen": "node scripts/gen-uncertain.mjs",
+    "dev": "npm run gen && vitepress dev docs",
+    "build": "npm run gen && vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "1.6.4"
+  }
+}

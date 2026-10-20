@@ -1,0 +1,159 @@
+/* ===== 配色：军绿 + 黄铜，浅色与深色各一套 ===== */
+:root {
+  --vp-c-brand-1: #8a6a1f;
+  --vp-c-brand-2: #a17c28;
+  --vp-c-brand-3: #b48d34;
+  --vp-c-brand-soft: rgba(161, 124, 40, 0.14);
+  --vp-c-bg: #fbfaf6;
+  --vp-c-bg-alt: #f3f1ea;
+  --vp-c-bg-soft: #f1eee5;
+  --vp-c-text-1: #23221e;
+  --vp-c-text-2: #55534b;
+  --vp-c-text-3: #8a877c;
+  --vp-c-divider: #e3dfd3;
+
+  --vp-font-family-base: "Inter", -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB",
+    "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", sans-serif;
+
+  --vp-custom-block-tip-bg: rgba(78, 110, 60, 0.08);
+  --vp-custom-block-tip-border: transparent;
+  --vp-custom-block-warning-bg: rgba(196, 120, 20, 0.09);
+  --vp-custom-block-info-bg: rgba(110, 104, 88, 0.08);
+
+  --reading-size: 16.5px;
+}
+
+.dark {
+  --vp-c-brand-1: #d4ad57;
+  --vp-c-brand-2: #c49b45;
+  --vp-c-brand-3: #a9853a;
+  --vp-c-brand-soft: rgba(212, 173, 87, 0.16);
+  --vp-c-bg: #121310;
+  --vp-c-bg-alt: #0d0e0b;
+  --vp-c-bg-soft: #1b1c17;
+  --vp-c-text-1: #e9e6dc;
+  --vp-c-text-2: #b4b0a3;
+  --vp-c-text-3: #7f7c71;
+  --vp-c-divider: #2c2d25;
+
+  --vp-custom-block-tip-bg: rgba(120, 160, 90, 0.1);
+  --vp-custom-block-warning-bg: rgba(212, 150, 60, 0.11);
+  --vp-custom-block-info-bg: rgba(170, 165, 150, 0.08);
+}
+
+/* ===== 正文排版：为长篇中文阅读调整 ===== */
+.vp-doc {
+  font-size: var(--reading-size);
+  line-height: 1.9;
+  letter-spacing: 0.01em;
+}
+.vp-doc p,
+.vp-doc li {
+  line-height: 1.9;
+  text-align: justify;
+  text-justify: inter-character;
+  hanging-punctuation: allow-end;
+}
+.vp-doc p { margin: 1.05em 0; }
+.vp-doc h1 {
+  font-size: clamp(26px, 4.4vw, 34px);
+  line-height: 1.3;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+.vp-doc h2 {
+  margin-top: 56px;
+  padding-top: 26px;
+  font-size: 23px;
+  line-height: 1.4;
+  font-weight: 750;
+}
+.vp-doc h3 {
+  margin-top: 36px;
+  font-size: 19px;
+  line-height: 1.5;
+  font-weight: 700;
+}
+.vp-doc h4 {
+  margin-top: 28px;
+  font-size: 16.5px;
+  font-weight: 700;
+  color: var(--vp-c-brand-1);
+}
+.vp-doc strong { font-weight: 700; color: var(--vp-c-text-1); }
+.vp-doc a { text-underline-offset: 3px; }
+
+/* 章首「一句话概括」：第一段引用做成导语 */
+.vp-doc h1 + blockquote,
+.vp-doc h1 + p + blockquote {
+  margin: 18px 0 26px;
+  padding: 14px 18px;
+  border-left: 3px solid var(--vp-c-brand-1);
+  border-radius: 0 10px 10px 0;
+  background: var(--vp-c-brand-soft);
+}
+.vp-doc h1 + blockquote p,
+.vp-doc h1 + p + blockquote p {
+  margin: 0;
+  font-size: 15.5px;
+  color: var(--vp-c-text-1);
+}
+.vp-doc blockquote {
+  border-left-color: var(--vp-c-brand-3);
+  color: var(--vp-c-text-2);
+}
+
+/* 信息表与任务表 */
+.vp-doc table {
+  display: table;
+  width: 100%;
+  font-size: 14.5px;
+  line-height: 1.7;
+  border-collapse: collapse;
+}
+.vp-doc tr:nth-child(2n) { background: transparent; }
+.vp-doc th,
+.vp-doc td {
+  padding: 8px 12px;
+  border: 0;
+  border-bottom: 1px solid var(--vp-c-divider);
+  text-align: left;
+  vertical-align: top;
+}
+.vp-doc th { background: var(--vp-c-bg-soft); font-weight: 700; }
+.vp-doc td:first-child { white-space: nowrap; color: var(--vp-c-text-2); }
+@media (max-width: 640px) {
+  .vp-doc table { display: block; overflow-x: auto; }
+  .vp-doc td:first-child { white-space: normal; min-width: 4.5em; }
+}
+
+/* 提示框：存疑 / 连接 / 人物档案 */
+.vp-doc .custom-block {
+  border-radius: 10px;
+  font-size: 15px;
+  line-height: 1.8;
+}
+.vp-doc .custom-block p { line-height: 1.8; }
+.vp-doc .custom-block .custom-block-title { font-weight: 700; letter-spacing: 0.04em; }
+.vp-doc .custom-block.warning { border-left: 3px solid #c47814; }
+.vp-doc .custom-block.tip { border-left: 3px solid #5d8a46; }
+.vp-doc .custom-block.info { border-left: 3px solid var(--vp-c-text-3); }
+.dark .vp-doc .custom-block.warning { border-left-color: #d4963c; }
+.dark .vp-doc .custom-block.tip { border-left-color: #7fae63; }
+
+/* 侧边栏：卷标题更像书的目录 */
+.VPSidebarItem.level-0 > .item .text {
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+.VPSidebarItem.level-1 .text { font-size: 13.5px; }
+
+/* 首页类页面不要正文的两端对齐 */
+.VPPage .shelf p,
+.VPPage .bh p { text-align: left; }
+
+/* 手机：正文略小、边距收紧 */
+@media (max-width: 640px) {
+  :root { --reading-size: 16px; }
+  .vp-doc h2 { margin-top: 44px; padding-top: 20px; font-size: 21px; }
+}
