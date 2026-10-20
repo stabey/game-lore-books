@@ -167,7 +167,7 @@
 | 1998 年以前（具体不明） | 为德里克·西蒙斯执行任务，后因得知他参与摧毁浣熊市的决定而离开 | 《生化危机6》档案 |
 | 1998 年 9 月 | 受威斯克派遣潜入浣熊市夺取 G 病毒；结识里昂；坠落后生还，扔下火箭筒救下里昂 | [《生化危机2》](../raccoon/re2.md) |
 | 1998 年 9 月底 | 逃离即将被导弹摧毁的浣熊市，把 G 病毒样本带回给威斯克 | [《安布雷拉编年史》](../umbrella/chronicles.md)、《生化危机6》档案 |
-| 2004 年秋 | 奉威斯克之命赴西班牙取普拉卡支配种样本；暗中协助里昂；违抗「除掉里昂」的命令；带走样本却未交给威斯克 | [《生化危机4》](../bsaa/re4.md)、「艾达篇」 |
+| 2004 年 | 奉威斯克之命赴西班牙取普拉卡支配种样本；暗中协助里昂；违抗「除掉里昂」的命令；带走样本却未交给威斯克 | [《生化危机4》](../bsaa/re4.md)、「艾达篇」 |
 | 2011 年 | 伪装成 BSAA 人员潜入东斯拉夫共和国，取得支配种样本；被捕后脱逃；雇主为她撤销通缉令 | [《诅咒》](../film/damnation.md) |
 | 2012 年 12 月 | 复制体卡拉以「艾达·王」之名在伊多尼亚设局，屠杀克里斯的小队（艾达本人并不知情） | [《生化危机6》](../bsaa/re6.md) |
 | 2013 年 6 月 | 受「西蒙斯」委托潜入新伞公司潜艇；追查到高橡市、兰祥；消灭卡拉，协助击杀西蒙斯；摧毁改造卡拉的实验室，接受新委托 | [《生化危机6》](../bsaa/re6.md) |
@@ -266,12 +266,12 @@
 ## 资料来源
 
 - [Ada Wong – Wikipedia](https://en.wikipedia.org/wiki/Ada_Wong)
-- [Resident Evil 6 – Ada Wong 档案 – Evil Resource](https://www.evilresource.com/resident-evil-6/files/ada-wong-file)
-- [Resident Evil 6 – Ada and Raccoon City 档案 – Evil Resource](https://www.evilresource.com/resident-evil-6/files/ada-and-raccoon-city-file)
-- [Resident Evil 6 – Ada and Derek 档案 – Evil Resource](https://www.evilresource.com/resident-evil-6/files/ada-and-derek-file)
-- [Resident Evil 6 – Carla Radames / The Family 档案 – Evil Resource](https://www.evilresource.com/resident-evil-6/files/carla-radames-file)
-- [Resident Evil 6 – Leon and Ada 档案 – Evil Resource](https://www.evilresource.com/resident-evil-6/files/leon-and-ada-file)
-- [Resident Evil 4 (2023 video game) – Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_4_(2023_video_game))
-- [Resident Evil: Damnation – Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil:_Damnation)
+- [Resident Evil 6 – Ada Wong 档案](https://www.evilresource.com/resident-evil-6/files/ada-wong-file)、[Ada and Raccoon City](https://www.evilresource.com/resident-evil-6/files/ada-and-raccoon-city-file)、[Ada and Derek](https://www.evilresource.com/resident-evil-6/files/ada-and-derek-file)、[Leon and Ada](https://www.evilresource.com/resident-evil-6/files/leon-and-ada-file) – Evil Resource
+- [Resident Evil 6 – Carla Radames 档案](https://www.evilresource.com/resident-evil-6/files/carla-radames-file)、[Derek and Carla](https://www.evilresource.com/resident-evil-6/files/derek-and-carla-file)、[The Family](https://www.evilresource.com/resident-evil-6/files/the-family-file)、[The End of Derek Simmons](https://www.evilresource.com/resident-evil-6/files/the-end-of-derek-simmons-file)、[Scorched Earth](https://www.evilresource.com/resident-evil-6/files/scorched-earth-file) – Evil Resource
 - [Resident Evil 6 – Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_6)
+- [Resident Evil 2 (2019 video game) – Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game))
+- [Resident Evil 4 – Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_4)、[Resident Evil 4 (2023 video game) – Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_4_(2023_video_game))
+- [Separate Ways – Resident Evil Wiki](https://residentevil.fandom.com/wiki/Separate_Ways)
+- [Resident Evil: Damnation – Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil:_Damnation)
+- [Resident Evil Requiem – Access Log: First Assembly Minutes – Evil Resource](https://www.evilresource.com/resident-evil-requiem/files/access-log-first-assembly-minutes)
 - [Resident Evil Requiem director on who Leon is married to – Nintendo Wire](https://nintendowire.com/news/2026/03/18/resident-evil-requiem-director-on-who-leon-is-married-to-the-answer-will-become-clear-some-day/)
