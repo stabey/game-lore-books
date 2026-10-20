@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { codSidebar } from './cod-toc'
+import { acSidebar } from './ac-toc'
 
 // GitHub Pages 项目页部署在 /game-lore-books/ 下；本地开发或自定义域名时用 BASE=/ 覆盖
 const base = process.env.BASE ?? '/game-lore-books/'
@@ -34,9 +35,10 @@ export default defineConfig({
       { text: '书架', link: '/' },
       { text: '使命召唤', link: '/cod/', activeMatch: '^/cod/' },
       { text: '生化危机', link: '/re/', target: '_self' },
-      { text: '刺客信条', link: '/ac/', target: '_self' }
+      { text: '刺客信条', link: '/ac/', activeMatch: '^/ac/' }
     ],
     sidebar: {
+      '/ac/': acSidebar,
       '/cod/': codSidebar
     },
     outline: { level: [2, 3], label: '本章目录' },

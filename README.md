@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | 使命召唤剧情全书 | 新版：章节式深度长文（七卷 + 附录） | `docs/cod/` |
 | 生化危机 历代详解 | 旧版互动图鉴，原样迁入，待按新格式重写 | `docs/public/re/` |
-| 刺客信条 历史年代图鉴 | 旧版互动图鉴，原样迁入，待按新格式重写 | `docs/public/ac/` |
+| 刺客信条剧情全书 | 新版：章节式深度长文（十卷 + 附录） | `docs/ac/` |
 
 站点用 [VitePress](https://vitepress.dev/) 构建，推送到 `main` 后由 GitHub Actions 自动部署到 GitHub Pages。
 
@@ -27,13 +27,18 @@ docs/
   cod/                    使命召唤
     index.md              书首页（BookHome 组件，目录来自 cod-toc.ts）
     intro/ ww2/ mw/ bo/ future/ mwr/ zombies/ people/ appendix/
-  public/re/  public/ac/  旧版两本，静态文件原样发布
+  ac/                     刺客信条
+    index.md              书首页（BookFront 组件，封面与导语写在 frontmatter，目录来自 ac-toc.ts）
+    intro/ desmond/ kenway/ revolution/ myth/ recent/ spinoffs/ modern/ isu/ people/ orders/ appendix/
+  public/re/              生化危机旧版，静态文件原样发布
   .vitepress/
     config.mts            站点配置（导航、搜索、中文分词）
     cod-toc.ts            使命召唤目录：侧边栏与书首页共用
+    ac-toc.ts             刺客信条目录
     theme/                书架、书首页组件与阅读排版样式
-scripts/gen-uncertain.mjs 构建前扫描全书「存疑」框，生成附录 D
+scripts/gen-uncertain.mjs 构建前扫描每本书的「存疑」框，各自生成附录 D
 STYLE.md                  写作规范、章节模板与统一译名表
+STYLE-AC.md               刺客信条专用补充：章节模板、译名表、文件清单
 ```
 
 ## 加一章
