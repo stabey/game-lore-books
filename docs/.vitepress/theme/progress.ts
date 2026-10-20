@@ -7,7 +7,7 @@ export interface LastChapter {
 }
 
 function bookOf(path: string): string | null {
-  const m = path.match(/\/(cod)\/(.+)/)
+  const m = path.match(/\/(cod|re|ac)\/(.+)/)
   return m && m[2] && m[2] !== 'index' && m[2] !== 'index.html' ? m[1] : null
 }
 
