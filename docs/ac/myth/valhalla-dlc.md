@@ -348,6 +348,16 @@
 
 不少玩家也批评它篇幅太短、几乎没有新的玩法，对艾沃尔这样一个陪伴玩家上百小时的角色来说略显单薄。但作为《英灵殿》两年运营的收尾，它至少把艾沃尔、西格德、阿尔弗雷德、海瑟姆、巴辛几条线都收进了同一个画面里。
 
+## 共同的历史（Shared History）
+
+与「最后的篇章」同一次更新推出的还有一个免费小任务「共同的历史」，它的作用是给次年的[《幻景》](../recent/mirage.md)预热：巴辛当年的导师、无形者罗珊（Roshan）来到英格兰，追杀一名与她和艾沃尔都结了仇的敌人，两人发现彼此有共同的对手，于是联手。英文版中罗珊由肖瑞·阿格达什卢（Shohreh Aghdashloo）配音，与《幻景》相同。据 Access the Animus 维基，罗珊追杀的维序者马基拉，就是《幻景》里盖比哈身边的那个女仆。
+
+这段任务篇幅很短，对艾沃尔的故事没有影响，但它让《英灵殿》的晚年罗珊与《幻景》里年轻的巴辛隔着二十年遥遥相望：在《英灵殿》里，巴辛早已离开无形者、一心寻找洛基的过去，他的老师却仍在为兄弟会奔走。
+
+::: warning 存疑
+发布日期：育碧的 1.6.2 版更新说明写明该更新原定 2022 年 12 月 6 日、实际于 12 月 5 日上线；Access the Animus 维基则记为 2022 年 11 月 29 日（可能是部分平台提前上线）。任务中敌人的身份与结局，本书只找到 Access the Animus 维基一处说法，未能用其他来源核实。
+:::
+
 ## 其他免费内容
 
 除了上述剧情更新，《英灵殿》还推出过多项免费内容：季节性节庆活动、「河上劫掠」（River Raids）、「陨落者之墓」（Tombs of the Fallen），以及 2021 年 10 月的教育模式「探索之旅：维京时代」。它们大多不涉及主线剧情；其中「河上劫掠」里，艾沃尔还曾回到爱尔兰，从达努之子残余德鲁伊手中夺走一件「卢格之矛」。
@@ -383,6 +393,8 @@
 - [The Last Chapter – Access the Animus Wiki](https://assassinscreedwiki.accesstheanimus.com/wiki/The_Last_Chapter)
 - [Eivor Varinsdottir – Access the Animus Wiki](https://assassinscreedwiki.accesstheanimus.com/wiki/Eivor_Varinsdottir)
 - [Assassin's Creed Crossover Stories Available Now – Ubisoft](https://www.ubisoft.com/en-us/game/assassins-creed/news/5tcDIpoisH56PPLY7kZlOq)
+- [Assassin's Creed Valhalla Title Update 1.6.2 — Ubisoft](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla/news-updates/7gIvbOeVuS7SFKRKxkGzq1/assassins-creed-valhalla-title-update-162)
+- [Shared History — Access the Animus](https://assassinscreedwiki.accesstheanimus.com/wiki/Shared_History)
 
 ## 译名补充
 
@@ -416,3 +428,5 @@
 | Niflheim / Hel | 尼福尔海姆 / 海拉 | |
 | Muninn / Sýnin | 穆宁 / 辛宁 | 后者也是艾沃尔的渡鸦之名 |
 | Aethelstan（Guthrum） | 埃塞尔斯坦 | 古斯鲁姆受洗后的名字 |
+| Shared History | 共同的历史 | 2022 年免费任务 |
+| Roshan / Shohreh Aghdashloo | 罗珊 / 肖瑞·阿格达什卢 | 后者为英文版配音演员 |
