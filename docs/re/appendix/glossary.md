@@ -155,6 +155,96 @@
 | Rhodes Hill Chronic Care Center | 罗兹山慢性病护理中心 | 《安魂曲》 |
 | ARK | 方舟（ARK） | 《安魂曲》，浣熊市地下的伞公司设施 |
 
+## 跨章配角与术语
+
+下面这些词条不在核心表里，但在两章或以上出现过，这里统一收录，各章「译名补充」表与此一致。
+
+### 配角
+
+| English | 中文 | 说明 |
+| --- | --- | --- |
+| Richard Aiken | 理查德·艾肯 | S.T.A.R.S. 布拉沃小队通讯员 |
+| Kevin Dooley | 凯文·杜利 | S.T.A.R.S. 布拉沃小队驾驶员 |
+| Edward Dewey | 爱德华·杜威 | S.T.A.R.S. 布拉沃小队驾驶员 |
+| Kenneth J. Sullivan | 肯尼斯·J·沙利文 | S.T.A.R.S. 布拉沃小队队员 |
+| Forest Speyer | 福里斯特·斯派尔 | S.T.A.R.S. 布拉沃小队队员 |
+| Joseph Frost | 约瑟夫·弗罗斯特 | S.T.A.R.S. 阿尔法小队队员 |
+| Ben Bertolucci | 本·贝托鲁奇 | 《生化危机2》的记者 |
+| Sergei Vladimir | 谢尔盖·弗拉基米尔 | 伞公司高层 |
+| Frederic Downing | 弗雷德里克·唐宁 | 《恶化》中的 WilPharma 研究员 |
+| Svetlana Belikova | 斯维特拉娜·别利科娃 | 《诅咒》中的东斯拉夫共和国总统 |
+| Jessica Sherawat | 杰西卡·谢拉瓦特 | 《启示录》中的 BSAA 特工 |
+| Raymond Vester | 雷蒙德·维斯特 | 《启示录》中的 FBC 特工 |
+| Neil Fisher | 尼尔·费舍尔 | 《启示录2》中的 TerraSave 高层 |
+| Evgeny Rebic | 叶夫根尼·雷比奇 | 《启示录2》附加章节「挣扎」中的俄国老猎人 |
+| Polly Burton | 波莉·伯顿 | 巴瑞之女 |
+| Stuart | 斯图尔特 | 《启示录2》中亚历克斯·威斯克的管家 |
+| Ricardo Irving | 里卡多·欧文 | 《生化危机5》中特莱塞尔的生物兵器掮客 |
+| Josh Stone | 乔什·斯通 | BSAA 西非分部德尔塔小队队长 |
+| Brandon Bailey | 布兰登·贝利 | 伞公司非洲研究中心主任 |
+| Deborah Harper | 黛博拉·哈珀 | 海伦娜的妹妹，《生化危机6》 |
+| Alan Droney | 艾伦·德罗尼 | 「联结」特别行动部主任，《生化危机7》 |
+| Clancy Jarvis | 克兰西·贾维斯 | 《生化危机7》录像带里的摄影师 |
+| Eva | 伊娃 | 米兰达之女 |
+| Bela / Cassandra / Daniela | 贝拉 / 卡桑德拉 / 丹妮拉 | 迪米特雷斯库夫人的三个女儿 |
+| Angie | 安吉 | 唐娜·贝内文托的人偶 |
+| Masked Duke | 面具公爵 | 「萝丝之影」中米兰达在菌根里造出的人物 |
+| Michael | 迈克尔 | 「萝丝之影」中罗丝给引路者起的名字 |
+| Canine | Canine（保留原文） | 猎狼犬小队成员代号 |
+| Robert Kendo / Emma Kendo | 罗伯特·肯多 / 艾玛·肯多 | 浣熊市肯多枪店店主父女 |
+| Elza Walker | 艾尔莎·沃克 | 《生化危机2》早期原型中的女主角 |
+| Patrick | 帕特里克 | 同名两人：斯宾塞的管家（《生化危机5》《安魂曲》）；《无尽黑暗》中的新人特工 |
+| The Commander | 指挥官 | 《安魂曲》中与里昂交手的敌人 |
+
+### 组织、地点与行动
+
+| English | 中文 | 说明 |
+| --- | --- | --- |
+| Original Eleven | 元老十一人 | BSAA 的创始成员 |
+| Global Pharmaceutical Consortium | 全球制药联盟 | BSAA 的出资方；伞公司曾是其成员 |
+| Field Operations Support (FOS) | 现场行动支援部（FOS） | 美国政府机构 |
+| Spencer Foundation | 斯宾塞基金会 | 《安魂曲》 |
+| Harvardville Airport | 哈佛维尔机场 | 《恶化》 |
+| Operation Javier | 哈维尔行动 | 2002 年，《暗黑编年史》 |
+| Operation: Bacillus Terminate | 灭菌作战 | 1998 年以导弹毁灭浣熊市的行动代号 |
+| Overseer | 监视者 | 亚历克斯·威斯克在《启示录2》中的身份 |
+
+### 生物兵器与术语
+
+| English | 中文 | 说明 |
+| --- | --- | --- |
+| Cerberus | 地狱犬 | 丧尸犬 |
+| Red Queen | 红皇后 | 伞公司的防御型人工智能 |
+| V-ACT | V-ACT | 赤红丧尸的研究代号 |
+| Super Tyrant | 超级暴君 | 暴君解除限制器后的形态 |
+| Nosferatu | 诺斯费拉图 | 《维罗妮卡》 |
+| T-A.L.O.S. | T-A.L.O.S. | 伞公司最后的暴君兵器 |
+| P30 | P30 | 《生化危机5》中控制吉尔的药剂 |
+| Serum PG67A/W | PG67A/W 血清 | 威斯克用来稳定体内病毒的血清 |
+| Anti-C | 抗 C 疫苗（Anti-C） | 《生化危机6》 |
+| Animality Virus (A-virus) | 兽性病毒（A 病毒） | 《复仇》 |
+| E-Necrotoxin | E 型坏死毒素 | 《生化危机7》中对付伊芙琳的血清 |
+| Swamp Man | 沼泽人 | 「佐伊的末路」 |
+| Black God | 黑神 | 《村庄》中村民对菌根的称呼 |
+| Soldat | 机械兵（Soldat） | 海森堡的士兵 |
+| Giant's Chalice | 巨人圣杯 | 《村庄》 |
+| Sanguis Virginis | 处女之血 | 《村庄》 |
+| Purifying Crystal | 净化结晶 | 《村庄》 |
+| N0-AH | N0-AH（诺亚） | 方舟的 AI 管制中枢 |
+| PANDORA | 潘多拉 | 方舟核心区 |
+
+### 制作人员
+
+| English | 中文 | 说明 |
+| --- | --- | --- |
+| Kenichi Iwao | 岩尾贤一 | 初代编剧 |
+| Hiroyuki Kobayashi | 小林裕幸 | 制作人 |
+| Yoshiaki Hirabayashi | 平林良章 | 《生化危机2》重制版制作人 |
+| Yasuhiro Anpo | 安保康弘 | 《生化危机2》重制版导演之一 |
+| Koshi Nakanishi | 中西晃史 | 《生化危机7》《安魂曲》导演 |
+| Johannes Roberts | 约翰内斯·罗伯茨 | 2021 年电影《欢迎来到浣熊市》导演 |
+| Zach Cregger | 扎克·克雷格 | 2026 年真人电影导演 |
+
 ## 作品名
 
 | English / 日文 | 中文 | 说明 |
@@ -175,3 +265,7 @@
 | Resident Evil: Vendetta | 生化危机：复仇 | CG 电影 |
 | Resident Evil: Infinite Darkness | 生化危机：无尽黑暗 | CG 剧集 |
 | Resident Evil: Death Island | 生化危机：死亡岛 | CG 电影 |
+| Lost in Nightmares / Desperate Escape | 迷失噩梦 / 绝境逃生 | 《生化危机5》DLC |
+| Not a Hero / End of Zoe | 不是英雄 / 佐伊的末路 | 《生化危机7》DLC |
+| Shadows of Rose | 萝丝之影 | 《村庄》DLC；角色名写作「罗丝」 |
+| Wesker's Report | 威斯克报告 | 《维罗妮卡 X》附赠的伪纪录片 |
