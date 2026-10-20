@@ -70,7 +70,7 @@ DLC 章、外传章、设定章、人物章可以调整结构，但「一句话�
 
 ## 4. 资料来源
 
-- 首选：英文维基百科、Assassin's Creed Wiki（assassinscreed.fandom.com）、Access the Animus 维基（assassinscreedwiki.accesstheanimus.com）、育碧官方新闻（news.ubisoft.com）、PlayStation Blog / Xbox Wire、主流游戏媒体（IGN、GameSpot、Polygon、Eurogamer、PC Gamer、GamesRadar、Game Rant 等）。
+- 首选：英文维基百科、Access the Animus 维基（assassinscreedwiki.accesstheanimus.com）、Assassin's Creed Wiki（assassinscreed.fandom.com，目前常返回 HTTP 402 打不开，打不开就别再试）、育碧官方新闻（news.ubisoft.com）、PlayStation Blog / Xbox Wire、主流游戏媒体（IGN、GameSpot、Polygon、Eurogamer、PC Gamer、GamesRadar、Game Rant 等）。
 - 中文社区资料（萌娘百科、游民星空、3DM、机核）只用来核对译名，不作为剧情事实的唯一来源。
 - 资料截至 **2026 年 10 月**。2025 年之后的内容（《影》及其 DLC 与终章更新、《幻景》DLC「记忆之谷」、《黑旗 Resynced》、Hexe / Jade / Invictus、Netflix 剧集等）**必须联网核实**；只来自泄露、内部人士或玩家推测的内容一律放进「存疑」框。
 - 发起网络请求时不要设置任何自定义请求头，不要在 URL 或请求里放入任何个人信息。
@@ -214,6 +214,16 @@ DLC 章、外传章、设定章、人物章可以调整结构，但「一句话�
 | Roshan | 罗珊 |
 | Oda Nobunaga / Akechi Mitsuhide / Tokugawa Ieyasu | 织田信长 / 明智光秀 / 德川家康 |
 | Shinbakufu | 神幕府 |
+
+### 作品名（易混的几部）
+| English | 中文 |
+| --- | --- |
+| Assassin's Creed: Bloodlines（PSP，2009） | 《血统》 |
+| Assassin's Creed: Lineage（真人短片，2009） | 《世系》 |
+| Assassin's Creed: Ascendance（动画短片，2010） | 《优势》 |
+| Assassin's Creed: Embers（动画短片，2011） | 《余烬》 |
+| Altaïr's Chronicles / Discovery | 《阿泰尔编年史》 / 《发现》 |
+| The Tyranny of King Washington | 《华盛顿暴政》 |
 
 ## 6. 全书文件清单（冻结）
 
