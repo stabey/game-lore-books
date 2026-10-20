@@ -38,8 +38,8 @@ export default defineConfig({
       { text: '刺客信条', link: '/ac/', activeMatch: '^/ac/' }
     ],
     sidebar: {
-      '/ac/': acSidebar,
-      '/cod/': codSidebar
+      '/cod/': codSidebar,
+      '/ac/': acSidebar
     },
     outline: { level: [2, 3], label: '本章目录' },
     docFooter: { prev: '上一章', next: '下一章' },

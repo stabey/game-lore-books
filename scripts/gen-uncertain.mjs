@@ -1,10 +1,12 @@
-// 扫描每本书的 `::: warning 存疑` 提示框，各自生成「附录 D · 存疑汇总」
-// 加一本书：在文件末尾加一行 gen('<目录名>', '<目录文件里导出的侧边栏名>')
-import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs'
+// 扫描每本书的 `::: warning 存疑` 提示框，各自生成「存疑汇总」附录。
+// 书由 docs/.vitepress/<书>-toc.ts 自动发现：目录里有 /<书>/appendix/uncertain 这一项的书才会生成。
+import { readFileSync, writeFileSync, readdirSync, statSync, existsSync } from 'node:fs'
 import { join, relative, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-const docs = join(dirname(fileURLToPath(import.meta.url)), '..', 'docs')
+const here = dirname(fileURLToPath(import.meta.url))
+const docs = join(here, '..', 'docs')
+const tocDir = join(docs, '.vitepress')
 
 function walk(dir) {
   return readdirSync(dir).flatMap((f) => {
@@ -13,15 +15,19 @@ function walk(dir) {
   })
 }
 
-async function gen(book, sidebarExport) {
+async function gen(book, tocFile) {
   const root = join(docs, book)
   const out = join(root, 'appendix', 'uncertain.md')
+  if (!existsSync(dirname(out))) return
 
-  // 与侧边栏顺序一致
-  const toc = await import(`../docs/.vitepress/${book}-toc.ts`).catch(() => ({}))
-  const sidebar = toc[sidebarExport] ?? null
+  // 与侧边栏顺序一致：取目录文件里导出的那个数组
+  const mod = await import(join(tocDir, tocFile)).catch(() => ({}))
+  const sidebar = Object.values(mod).find((v) => Array.isArray(v)) ?? null
   const order = []
   if (sidebar) for (const v of sidebar) for (const it of v.items) order.push({ vol: v.text, link: it.link, text: it.text })
+  const self = order.find((o) => o.link === `/${book}/appendix/uncertain`)
+  if (sidebar && !self) return
+  const pageTitle = self ? `附录 ${self.text}` : '附录 · 存疑汇总'
 
   const files = walk(root).filter((p) => p !== out && !p.endsWith('index.md'))
   const byLink = new Map()
@@ -63,7 +69,7 @@ async function gen(book, sidebarExport) {
 search: false
 ---
 
-# 附录 D · 存疑汇总
+# ${pageTitle}
 
 > 本页由构建脚本自动生成：收集全书正文里所有标为「存疑」的提示框。它们是官方没有明确、各来源说法不一、或者只来自泄露与玩家推测的内容。
 
@@ -91,5 +97,7 @@ search: false
   console.log(`${book}/appendix/uncertain.md: ${byLink.size} chapters`)
 }
 
-await gen('cod', 'codSidebar')
-await gen('ac', 'acSidebar')
+for (const f of readdirSync(tocDir).sort()) {
+  const m = f.match(/^([a-z0-9]+)-toc\.ts$/)
+  if (m) await gen(m[1], f)
+}
