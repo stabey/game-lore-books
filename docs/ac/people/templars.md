@@ -318,7 +318,7 @@ Access the Animus 维基采用的「正史」是他拒绝回头、死于姐姐�
 
 > "May the Father of Understanding guide us."（「愿理解之父指引我们。」）
 
-（「理解之父」即 Father of Understanding，本书[《刺客信条III》](../desmond/ac3.md)一章译作「智慧之父」，这里与[《英灵殿》](../myth/valhalla.md)《大革命》两章统一。）他在歌剧院刺杀的米科是刺客，他精心招募的五个人，日后将是这部游戏的五个刺杀目标。他身手像刺客、用着袖剑，因为他是一个刺客的儿子。
+（「理解之父」即 Father of Understanding。）他在歌剧院刺杀的米科是刺客，他精心招募的五个人，日后将是这部游戏的五个刺杀目标。他身手像刺客、用着袖剑，因为他是一个刺客的儿子。
 
 ### 北美的大团长
 
@@ -694,7 +694,7 @@ Access the Animus 维基采用的「正史」是他拒绝回头、死于姐姐�
 | Rufio | 鲁菲奥 | |
 | Qabiha | 盖比哈 | |
 | Ra's al-Af'a | 蛇首 | |
-| Father of Understanding | 理解之父 | 《刺客信条III》一章译作「智慧之父」 |
+| Father of Understanding | 理解之父 | 圣殿骑士信奉的「神」 |
 | Poor Fellow-Soldier of Christ | 基督的贫苦士兵 | |
 | Hytham | 海瑟姆 | 《英灵殿》里的无形者，勿与海尔森混淆 |
 | Fulke | 富尔克 | |
