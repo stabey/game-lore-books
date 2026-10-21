@@ -6,6 +6,9 @@ import { acSidebar } from './ac-toc'
 // GitHub Pages 项目页部署在 /game-lore-books/ 下；本地开发或自定义域名时用 BASE=/ 覆盖
 const base = process.env.BASE ?? '/game-lore-books/'
 
+// 本地搜索按 locale 各建一份索引：每本书设成一个 locale，进哪本书只下载哪本书的索引。
+// 四个 locale 同 label，语言切换菜单就不会出现；link 都指向书架，站点标题和 404 按钮回书架。
+const zhLocale = { label: '简体中文', lang: 'zh-CN', link: '/' }
 
 export default defineConfig({
   lang: 'zh-CN',
@@ -15,6 +18,12 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   srcExclude: ['**/README.md'],
+  locales: {
+    root: zhLocale,
+    cod: zhLocale,
+    re: zhLocale,
+    ac: zhLocale
+  },
   head: [
     ['meta', { name: 'theme-color', content: '#0f1012' }],
     ['link', { rel: 'icon', href: `${base}favicon.svg` }]

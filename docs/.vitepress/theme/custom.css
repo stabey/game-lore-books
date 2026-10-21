@@ -152,6 +152,9 @@
 .VPPage .shelf p,
 .VPPage .bh p { text-align: left; }
 
+/* 搜索按书分索引，书架页自己的索引是空的：书架上不放搜索按钮，进了书再搜 */
+.bookshelf-page .VPNavBarSearch { display: none; }
+
 /* 手机：正文略小、边距收紧 */
 @media (max-width: 640px) {
   :root { --reading-size: 16px; }
