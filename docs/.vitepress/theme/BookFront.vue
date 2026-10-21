@@ -197,6 +197,8 @@ onMounted(() => {
   .bf { padding: 28px 16px 56px; }
   .bf-hero { grid-template-columns: 1fr; gap: 24px; }
   .bf-cover { width: 180px; }
+  .bf-cover .en { font-size: 10px; letter-spacing: 0.2em; right: 20px; }
+  .bf-cover .t { font-size: 28px; letter-spacing: 0.08em; }
   .bf-ways { grid-template-columns: 1fr; }
   .vols { grid-template-columns: 1fr; }
 }
